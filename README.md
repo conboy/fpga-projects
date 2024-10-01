@@ -5,4 +5,4 @@ Creating a Vivado project and running the source and constraints file
 Mapping switch to a LED
 
 # Tutorial 3
-Mapping all switches to a LED
+Mapping all switches to their corresponding LEDs
